@@ -21,6 +21,8 @@
   * Draw a state machine diagram for a VT-100 that can consume regular
     character sequences as well as the two above ESC sequences.
 
+    https://www.evernote.com/shard/s341/sh/a5fe4cfe-5630-4142-b71c-c6c5e46d2432/4db5cf34b78c975f868d9d81c208eddc
+
 > If you're curious, [here are all the VT-100 escape
 > sequences](http://ascii-table.com/ansi-escape-sequences-vt-100.php).
 > More common these days is a superset of VT-100 called [ANSI escape
